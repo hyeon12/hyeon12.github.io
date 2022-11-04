@@ -1,3 +1,9 @@
+#theme:
+#  jekyll-theme-hydejack"
+
+remote_theme:
+  hydecorp/hydejack@v9
+
 lang:                  en
 title:                 Hydejack
 copyright:             © 2021. All rights reserved.
@@ -80,3 +86,4 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
